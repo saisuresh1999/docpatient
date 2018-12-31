@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">docpatient</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Email:</string>
+    <string name="name">Name:</string>
+    <string name="check">Chwck Details:</string>
+
+
+    <string-array name="doc">
+        <item>dermatologist</item>
+        <item>pediatrician</item>
+        <item>physiatrist</item>
+        <item>neuropathist</item>
+        <item>General</item>
+    </string-array>
+
+
+</resources>
